@@ -10,4 +10,4 @@ Levitas — a squeezy.dev product\
 - Step 2
 - Step 3
 
-note to be romeved: **sqz-gh-dev-clone-grp** group
+note to be removed: **sqz-gh-dev-clone-grp** group
